@@ -7,4 +7,4 @@ struct Node {
 	Node* next;
 };
 
-N
+Node* START = NULL;
