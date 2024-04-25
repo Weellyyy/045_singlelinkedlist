@@ -182,6 +182,9 @@ int main() {
 				break;
 			}
 		}
-
+		catch (exception e)
+		{
+			cout << "Terjadi kesalahan" << endl;
+		}
 	}
 }
